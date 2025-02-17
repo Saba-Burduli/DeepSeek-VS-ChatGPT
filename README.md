@@ -24,7 +24,7 @@ This repository explores the differences between **DeepSeek** and **ChatGPT** in
 
 ## Introduction
 
-When developing ASP.NET applications, developers often rely on AI-powered tools to streamline coding, debug errors, and generate boilerplate code. Two popular tools are **DeepSeek** and **ChatGPT**. This repository compares their free versions to help you decide which one is better for your ASP.NET development needs.
+When Developing ASP.NET applications, developers often rely on AI-powered tools to streamline coding, debug errors, and generate boilerplate code. Two popular tools are **DeepSeek** and **ChatGPT**. This Repository compares their free versions to help you decide which one is better for your ASP.NET development needs.
 
 ---
 
@@ -44,7 +44,7 @@ DeepSeek is an AI-powered coding assistant designed specifically for developers.
 ChatGPT, developed by OpenAI, is a general-purpose AI language model. While not specifically designed for coding, it can assist with ASP.NET development by generating code snippets, explaining concepts, and debugging. The free version of ChatGPT is versatile but may lack depth in specialized tasks.
 
 **Key Features:**
-- General-purpose code generation.
+- General-Purpose code generation.
 - Explanation of programming concepts.
 - Debugging assistance.
 
@@ -53,7 +53,7 @@ ChatGPT, developed by OpenAI, is a general-purpose AI language model. While not 
 ## Comparison
 
 ### Code Generation
-- **DeepSeek**: Generates ASP.NET-specific code snippets with high accuracy. For example, it can create a complete CRUD controller for an ASP.NET Core application.
+- **DeepSeek**: GEnerates ASP.NET-specific code snippets with high accuracy. For example, it can create a complete CRUD controller for an ASP.NET Core application.
 - **ChatGPT**: Provides general-purpose code snippets. While it can generate ASP.NET code, it may require more refinement.
 
 **Example:**
