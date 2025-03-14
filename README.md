@@ -54,7 +54,7 @@ ChatGPT, developed by OpenAI, is a general-purpose AI language model. While not 
 
 ### Code Generation
 - **DeepSeek**: GEnerates ASP.NET-specific code snippets with high accuracy. For example, it can create a complete CRUD controller for an ASP.NET Core application.
-- **ChatGPT**: Provides general-purpose code snippets. While it can generate ASP.NET code, it may require more refinement.
+- **ChatGPT**: Provides general-purpose code snippets. While it can generate **ASP.NET** code, it may require more refinement.
 
 **Example:**
 ```csharp
