@@ -142,7 +142,7 @@ Ultimately, the choice depends on your specific needs and familiarity with ASP.N
 Contributing
 Contributions are welcome! If you have suggestions, examples, or improvements, feel free to open an issue or submit a pull request.
 
-License
+©️License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 
