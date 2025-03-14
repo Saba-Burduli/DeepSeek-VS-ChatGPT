@@ -1,6 +1,6 @@
 # DeepSeek-VS-ChatGPT🔍
 Which free version is better  Deepseek or Chatgpt in Programming ofc . We Can see this two in asp.net Development and lets see which in better 
-# ASP.NET Development: DeepSeek vs ChatGPT Comparison
+# ⚪ ASP.NET Development: DeepSeek vs ChatGPT Comparison
 
 This repository explores the differences between **DeepSeek** and **ChatGPT** in the context of ASP.NET development. We will compare their free versions, provide examples, and discuss which tool might be Better suited for specific tasks.
 
