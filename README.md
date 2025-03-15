@@ -87,10 +87,13 @@ public class ProductsController : ControllerBase
 
 DeepSeek: Offers real-time error detection and suggests fixes for common ASP.NET errors.
 
+
 ChatGPT: Can explain errors and provide potential solutions but may not be as precise as DeepSeek.
+
 
 Learning Curve
 DeepSeek: Easier for beginners in ASP.NET due to its specialized focus.
+
 
 ChatGPT: Requires some familiarity with ASP.NET to refine its outputs.
 
