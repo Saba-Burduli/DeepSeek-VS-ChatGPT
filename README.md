@@ -47,7 +47,9 @@ DeepSeek is an AI-powered coding assistant designed specifically for developers.
 
 ## ChatGPT Overview
 
+
 ChatGPT, developed by OpenAI, is a general-purpose AI language model. While not specifically designed for coding, it can assist with ASP.NET development by generating code snippets, explaining concepts, and debugging. The free version of ChatGPT is versatile but may lack depth in specialized tasks.
+
 
 **Key Features:**
 - General-Purpose code generation.
