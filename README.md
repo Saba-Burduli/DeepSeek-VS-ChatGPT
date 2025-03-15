@@ -84,6 +84,7 @@ public class ProductsController : ControllerBase
 
 
 ❌Error Handling
+
 DeepSeek: Offers real-time error detection and suggests fixes for common ASP.NET errors.
 
 ChatGPT: Can explain errors and provide potential solutions but may not be as precise as DeepSeek.
